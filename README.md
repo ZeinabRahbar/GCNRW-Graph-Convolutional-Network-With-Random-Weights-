@@ -1,6 +1,6 @@
 # Graph Convolutional Network with Random Weights (GCNRW)
 
-This project implements a **IEEE TPAMI paper : Are Graph Convolutional Networks with Random Weights feasible (GCNRW)**, a high-speed graph neural network architecture that utilizes fixed random hidden weights and an analytical closed-form solution for the output layer. This approach, significantly reduces training time by avoiding iterative backpropagation.
+This project reimplements an **IEEE TPAMI paper : Are Graph Convolutional Networks with Random Weights feasible (GCNRW)**, computationally efficient graph neural network architecture that utilizes fixed random hidden weights and an analytical closed-form solution for the output layer. This approach, significantly reduces training time by avoiding iterative backpropagation.
 
 ## ## Technical Features
 
