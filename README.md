@@ -68,9 +68,9 @@ model.fit(A_train, X_train, Y_train)
 4. **Predict:**
 ```python
 predictions = model.predict(A_test, X_test)
-
 ```
 
 
+```
 
 Would you like me to help you refactor the code into a standalone Python script or perhaps optimize the memory
