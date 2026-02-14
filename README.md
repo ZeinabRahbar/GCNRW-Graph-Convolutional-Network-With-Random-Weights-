@@ -19,5 +19,4 @@ Evaluated on the **Planetoid** datasets with the following results:
 | **Citeseer** | 10,000 | 100 | 98.40% | 71.25% |
 | **PubMed** | 7,000 | 10 | 89.65% | 80.24% |
 
----Transformers is essential.
 
