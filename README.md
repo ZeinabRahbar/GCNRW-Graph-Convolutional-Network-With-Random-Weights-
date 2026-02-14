@@ -19,14 +19,5 @@ Evaluated on the **Planetoid** datasets with the following results:
 | **Citeseer** | 10,000 | 100 | 98.40% | 71.25% |
 | **PubMed** | 7,000 | 10 | 89.65% | 80.24% |
 
----
-
-## ## Feasibility for IEEE TPAMI
-
-Publishing a Random Weight GCN in a top-tier journal like **IEEE TPAMI** is feasible but requires addressing the following high-standard criteria:
-
-* **Theoretical Foundations:** TPAMI demands more than empirical success. You must provide theoretical analysis, such as the **Universal Approximation Property** for graph signals or bounds related to the **Johnson-Lindenstrauss Lemma** regarding the random projections.
-* **Algorithmic Novelty:** Since ELM-based GCNs exist in literature (e.g., Random-GCN), you must highlight a unique contribution, such as a novel regularization technique, a specific solution for **graph heterophily**, or a new way to handle **large-scale graph spectral filtering**.
-* **Comprehensive Evaluation:** Beyond the Planetoid datasets (Cora, Citeseer, PubMed), a TPAMI-level paper requires testing on diverse benchmarks, including large-scale OGB (Open Graph Benchmark) datasets and heterophilic graphs.
-* **Comparative Complexity:** Detailed analysis comparing the computational complexity and energy efficiency of GCNRW against state-of-the-art iterative models like GATv2 or Graph Transformers is essential.
+---Transformers is essential.
 
