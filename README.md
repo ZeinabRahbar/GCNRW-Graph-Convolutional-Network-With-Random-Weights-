@@ -13,7 +13,7 @@ This project reimplements an **IEEE TPAMI paper : Are Graph Convolutional Networ
 
 Evaluated on the **Planetoid** datasets with the following results:
 
-| Dataset | Hidden Units | Lambda () | Train Acc | Test Acc |
+| Dataset | Hidden Units | Lambda | Train Acc | Test Acc |
 | --- | --- | --- | --- | --- |
 | **Cora** | 8,000 | 15 | 98.15% | 79.33% |
 | **Citeseer** | 10,000 | 100 | 98.40% | 71.25% |
