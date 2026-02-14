@@ -5,8 +5,8 @@ This project implements a **IEEE TPAMI paper : Are Graph Convolutional Networks 
 ## ## Technical Features
 
 * **Random Hidden Layer:** Uses a fixed weight matrix  initialized with a uniform distribution .
-* **Second-Order Smoothing:** Employs the squared adjacency matrix () to aggregate features from two-hop neighborhoods.
-* **Analytical Solver:** Computes output weights () using Tikhonov regularization () to solve the linear system.
+* **Second-Order Smoothing:** Employs the squared adjacency matrix to aggregate features from two-hop neighborhoods.
+* **Analytical Solver:** Computes output weights using Tikhonov regularization to solve the linear system.
 * **Efficiency:** Automatically selects between primal and dual solutions based on the ratio of hidden units to training samples.
 
 ## ## Performance Benchmarks
