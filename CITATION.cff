@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite it as below."
+authors:
+  - family-names: "Rahbar"
+    given-names: "Zeinab"
+    orcid: "https://orcid.org/your-orcid-id" # اگر ORCID دارید، می‌توانید اضافه کنید
+title: "GCNRW: Graph Convolutional Network with Random Weights - Implementation"
+version: 1.0.0
+date-released: 2026-04-30
+url: "https://github.com/ZeinabRahbar/GCNRW-Graph-Convolutional-Network-With-Random-Weights-"
+license: "Apache-2.0"
+# بخش preferred-citation برای ارجاع به مقاله اصلی که پیاده‌سازی بر اساس آن است
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Huang"
+      given-names: "Changqin"
+    - family-names: "Li"
+      given-names: "Ming"
+    - family-names: "Cao"
+      given-names: "Feilong"
+    - family-names: "Fujita"
+      given-names: "Hamido"
+    - family-names: "Li"
+      given-names: "Zhao"
+    - family-names: "Wu"
+      given-names: "Xindong"
+  doi: "10.1109/TPAMI.2022.3183143"
+  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  title: "Are Graph Convolutional Networks With Random Weights Feasible?"
+  volume: 45
+  issue: 3
+  start: 2751
+  end: 2768
+  year: 2023
+  month: 3
