@@ -41,5 +41,18 @@ If you use this code in your research, please cite the original paper:
   year={2023},
   month={Mar},
   doi={10.1109/TPAMI.2022.3183143},
+
+## How to Cite This Code
+
+If you use or refer to this implementation in your work, please cite this repository directly:
+
+```bibtex
+@software{Rahbar_GCNRW_Graph_Convolutional_2026,
+  author = {Zeinab Rahbar},
+  title = {GCNRW: Graph Convolutional Network with Random Weights - Implementation},
+  year = {2026},
+  url = {https://github.com/ZeinabRahbar/GCNRW-Graph-Convolutional-Network-With-Random-Weights-},
+  note = {GitHub repository}
+}
   pmid={35704541}
 }
