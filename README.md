@@ -25,3 +25,14 @@ Evaluated on the **Planetoid** datasets with the following results:
 | **PubMed** | 7,000 | 10 | 89.65% | 80.24% |
 
 
+## Citation
+
+If you use this code in your research, please cite the original paper:
+
+```bibtex
+@article{zhang2022are,
+  title={Are Graph Convolutional Networks with Random Weights Feasible?},
+  author={Zhang, Shun and Wang, Xueliang and Zhang, Zhen and Liu, Yong and Xiong, Hui and Zhou, Xingshe},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2022}
+}
