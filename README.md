@@ -26,7 +26,7 @@ Evaluated on the **Planetoid** datasets with the following results:
 
 
 ## Citation
-##This repository is an independent implementation of the following paper (we are not the authors):
+## This repository is an independent implementation of the following paper (we are not the authors):
 If you use this code in your research, please cite the original paper:
 
 ```bibtex
