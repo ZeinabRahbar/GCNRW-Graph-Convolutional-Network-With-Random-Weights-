@@ -1,3 +1,8 @@
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)
+![Stars](https://img.shields.io/github/stars/ZeinabRahbar/GCNRW-Graph-Convolutional-Network-With-Random-Weights-)
+
 # Graph Convolutional Network with Random Weights (GCNRW)
 
 This project aims to reproduce the experimental results reported in the IEEE TPAMI paper **“Are Graph Convolutional Networks with Random Weights Feasible?”** We follow the original experimental protocol, hyperparameter settings, and data splits provided by the authors.
