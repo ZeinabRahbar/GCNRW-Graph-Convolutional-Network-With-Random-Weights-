@@ -29,9 +29,9 @@ Evaluated on the **Planetoid** datasets with the following results:
 
 * This repository is an independent implementation of the following paper (we are not the authors)
 
-If you use this code in your research, please cite the original paper:
+* If you use this code in your research, please cite the original paper:
 
-```bibtex
+* ```bibtex
 
 @article{huang2023graph,
   title={Are Graph Convolutional Networks With Random Weights Feasible?},
