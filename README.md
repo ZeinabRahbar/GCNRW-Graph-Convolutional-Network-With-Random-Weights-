@@ -30,9 +30,16 @@ Evaluated on the **Planetoid** datasets with the following results:
 If you use this code in your research, please cite the original paper:
 
 ```bibtex
-@article{zhang2022are,
-  title={Are Graph Convolutional Networks with Random Weights Feasible?},
-  author={Zhang, Shun and Wang, Xueliang and Zhang, Zhen and Liu, Yong and Xiong, Hui and Zhou, Xingshe},
+
+@article{huang2023graph,
+  title={Are Graph Convolutional Networks With Random Weights Feasible?},
+  author={Huang, Changqin and Li, Ming and Cao, Feilong and Fujita, Hamido and Li, Zhao and Wu, Xindong},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2022}
+  volume={45},
+  number={3},
+  pages={2751--2768},
+  year={2023},
+  month={Mar},
+  doi={10.1109/TPAMI.2022.3183143},
+  pmid={35704541}
 }
