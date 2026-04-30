@@ -3,13 +3,12 @@ message: "If you use this code in your research, please cite it as below."
 authors:
   - family-names: "Rahbar"
     given-names: "Zeinab"
-    orcid: "https://orcid.org/your-orcid-id" # اگر ORCID دارید، می‌توانید اضافه کنید
+    # orcid: "https://orcid.org/your-orcid-id"  # optional
 title: "GCNRW: Graph Convolutional Network with Random Weights - Implementation"
 version: 1.0.0
 date-released: 2026-04-30
 url: "https://github.com/ZeinabRahbar/GCNRW-Graph-Convolutional-Network-With-Random-Weights-"
 license: "Apache-2.0"
-# بخش preferred-citation برای ارجاع به مقاله اصلی که پیاده‌سازی بر اساس آن است
 preferred-citation:
   type: article
   authors:
